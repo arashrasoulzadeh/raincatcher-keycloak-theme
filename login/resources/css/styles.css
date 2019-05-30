@@ -44,9 +44,9 @@ div#kc-header {
 div#kc-content {
   position: absolute;
   top: 20%;
-  left: 31%;
+  left: 33%;
   width: 50%;
-  max-width: 430px;
+  max-width: 400px;
   background-color: #ffffff !important;
   border-radius: 5px;
   padding: 24px
