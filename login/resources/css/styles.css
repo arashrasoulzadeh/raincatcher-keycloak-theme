@@ -43,9 +43,13 @@ div#kc-header {
 div#kc-content {
     position: absolute;
     top: 20%;
-    left: 50%;
-    width: 95%;
-    margin-left: -44%;
+    left: 5%;
+    width: 80%;
+    background-color: "white";
+    border-radius: 5px;
+    margin-top : 76px;
+    padding:24px
+
 }
 
 div#kc-form {
