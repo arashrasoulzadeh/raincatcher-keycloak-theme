@@ -52,6 +52,17 @@ div#kc-content {
 
 }
 
+#kc-content{
+  position: absolute;
+  top: 20%;
+  left: 5%;
+  width: 80%;
+  background-color: "white"!important;
+  border-radius: 5px;
+  margin-top : 76px;
+  padding:24px
+}
+
 div#kc-form {
 
 }
