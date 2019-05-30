@@ -29,9 +29,13 @@ div#kc-header::after {
 
 div#kc-info {
 }
+#kc-page-title{
+  display: none;
 
+}
 /*title banner size and colour*/
 div#kc-header {
+  display: none;
     width:100%;
     background-color: rgb(40,53,147);
     padding-top: 2.5em;
@@ -43,11 +47,11 @@ div#kc-header {
 div#kc-content {
     position: absolute;
     top: 20%;
-    left: 5%;
-    width: 80%;
+    left: 24%;
+    width: 60%;
     background-color: #ffffff!important;
     border-radius: 5px;
-    margin-top : 76px;
+    margin-top : 180px;
     padding:24px
 
 }
@@ -58,9 +62,9 @@ div#kc-form {
 }
 /* label change Username, Password text*/
 div#kc-form label {
-    color: rgba(255, 255, 255, 0.7) !important;
+    color: rgba(0, 0, 0, 1) !important;
     display: block;
-    font-size: 30px;
+    font-size: 15px;
 }
 /**/
 div#kc-form-login {
@@ -104,12 +108,13 @@ input[type=submit] {
     background-color: #2B394E;
     box-shadow: 0px 0px 6px rgba(0,0,0,0.5);
     color: rgba(0,0,0,0.6);
-    font-size: 30px;
+    font-size: 15px;
     color: white;
     text-transform: uppercase;
-    padding: 20px;
+    padding: 7px;
     margin-top: 3em;
-    width: 98%;
+    width: 15%;
+    float:"right";
 }
 
 input[type=submit]:hover {
