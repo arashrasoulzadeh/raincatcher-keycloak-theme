@@ -21,6 +21,9 @@ a {
 /* Change content to change the title of the page*/
 div#kc-content::before {
   content:url(https://vip.xaas.ir/static/dashboard/img/logo-splash.png);
+  text-align: center;
+  padding-bottom: 100;
+  margin-bottom:100;
 }
 
 div#kc-info {
