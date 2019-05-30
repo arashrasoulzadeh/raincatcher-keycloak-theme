@@ -45,23 +45,13 @@ div#kc-content {
     top: 20%;
     left: 5%;
     width: 80%;
-    background-color: "white"!important;
+    background-color: #ffffff!important;
     border-radius: 5px;
     margin-top : 76px;
     padding:24px
 
 }
 
-#kc-content{
-  position: absolute;
-  top: 20%;
-  left: 5%;
-  width: 80%;
-  background-color: "white"!important;
-  border-radius: 5px;
-  margin-top : 76px;
-  padding:24px
-}
 
 div#kc-form {
 
