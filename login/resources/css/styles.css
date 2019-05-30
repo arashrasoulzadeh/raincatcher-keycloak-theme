@@ -19,7 +19,7 @@ a {
 }
 
 /* Change content to change the title of the page*/
-div#kc-header::after {
+div#kc-content::before {
   content:url(http://placehold.it/350x150);
 }
 
