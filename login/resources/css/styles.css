@@ -20,11 +20,7 @@ a {
 
 /* Change content to change the title of the page*/
 div#kc-header::after {
-    padding-top: 3px;
-    content: 'Key Clock Login Page';
-    font-size: 40px;
-    line-height: 50px;
-    margin-bottom: 15px;
+  content:url(http://placehold.it/350x150);
 }
 
 div#kc-info {
