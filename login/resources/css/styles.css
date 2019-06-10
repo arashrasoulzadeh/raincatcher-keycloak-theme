@@ -215,3 +215,8 @@ a.zocial {
   padding-top: 0.2em;
   padding-bottom: 0.2em;
 }
+/* Title */
+#kc-page-title::after {
+    content: " XaaS.ir"
+}
+
