@@ -29,6 +29,9 @@ div#kc-info {}
   display: none;
 }
 
+.kc-feedback-text{
+ color:#000000; 
+}
 /*title banner size and colour*/
 div#kc-header {
   display: none;
